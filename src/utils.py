@@ -2,7 +2,9 @@ import requests
 import time
 import random
 import json
+import pandas as pd
 from bs4 import BeautifulSoup
+from pathlib import Path
 
 headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", 
@@ -21,7 +23,7 @@ headers = {
 }
 
 def scrap_animes(nr_pages=10):
-    """Scrape anime titles and links from MAL top anime by popularity"""
+    """Scrape anime links from MAL top anime by popularity"""
     all_animes = []
 
     for page in range(nr_pages):
@@ -40,9 +42,8 @@ def scrap_animes(nr_pages=10):
             soup = BeautifulSoup(response.text, 'html.parser')
             h3_titles = soup.select("h3.anime_ranking_h3 > a")
             for title_tag in h3_titles:
-                name = title_tag.getText()
                 link = title_tag["href"]
-                anime_data = scrap_anime_data(name, link)
+                anime_data = scrap_anime_data(link)
                 if anime_data:
                     all_animes.append(anime_data)
         
@@ -51,9 +52,9 @@ def scrap_animes(nr_pages=10):
 
     return all_animes
 
-def scrap_anime_data(name, link):
+def scrap_anime_data(link):
+    """Scrape information about an anime from MAL by providing the link"""
     time.sleep(1)
-    print(f"Scraping {name}...")
 
     try:
         response = requests.get(link, headers=headers)
@@ -61,6 +62,7 @@ def scrap_anime_data(name, link):
 
         soup = BeautifulSoup(response.text, 'html.parser')
         title = soup.select_one("h1.title-name strong").getText()
+        print(f"Scraping {title}...")
         score = soup.select_one("div.score-label").getText()
         genres = soup.find_all(name="span", itemprop="genre")
         episodes_div = soup.find(name="span", class_="dark_text", string="Episodes:")
@@ -87,9 +89,36 @@ def scrap_anime_data(name, link):
             "studios": studios,
             "year": year,
         }
-
         return anime_data
 
     except Exception as e:
            print(f"Error: {e}")
            return None
+
+def store_data(animes, file_name="anime_dataset"):
+    """Store scraped anime data in JSON and CSV formats"""
+    
+    data_dir = Path("data/raw")
+    data_dir.mkdir(parents=True, exist_ok=True)
+
+    df = pd.DataFrame(animes)
+
+    # Store data in csv format
+    csv_path = data_dir / f"{file_name}.csv"
+    df.to_csv(csv_path, index=False, encoding='utf-8')
+    print(f"Saved {len(animes)} animes into {csv_path}")
+
+    # Store data in json format
+    json_path = data_dir / f"{file_name}.json"
+    with open(json_path, "w", encoding='utf-8') as file:
+        json.dump(animes, file, indent=4, ensure_ascii=False)
+    print(f"Saved {len(animes)} animes into {json_path}")
+
+    # Print summary
+    print(f"\n{'='*50}")
+    print("Dataset Summary")
+    print(f"Total animes: {len(animes)}")
+    print(f"Columns: {list(df.columns)}")
+    print(f"\n{'='*50}")
+
+    return csv_path, json_path

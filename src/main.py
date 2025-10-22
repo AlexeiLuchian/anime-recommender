@@ -1,6 +1,15 @@
-from utils import scrap_animes
+from utils import scrap_animes, store_data
 
-animes = scrap_animes()
+if __name__=="__main__":
+    print("Start anime scraper...\n")
+    animes = scrap_animes()
 
-for anime in animes:
-    print(anime)
+    print(f"\n{'='*50}")
+    print(f"Total anime scraped: {len(animes)}")
+    print(f"{'='*50}\n")
+
+    if animes:
+        store_data(animes)
+        print("Scraping complete! Data saved successfully.")
+    else:
+        print("No anime data collected!")
