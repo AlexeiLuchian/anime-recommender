@@ -29,7 +29,7 @@ The system analyzes:
 ### Option 2: Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/anime-recommender.git
+git clone https://github.com/AlexeiLuchian/anime-recommender.git
 cd anime-recommender
 
 # Install dependencies
@@ -141,7 +141,7 @@ While I already had experience with web scraping, I built this project to challe
 
 ## 📸 Screenshots
 
-### Search & Recommend
+### Search Anime
 ![Search Interface](screenshots/search.png)
 
 ### Recommendation Results
