@@ -2,7 +2,7 @@
 
 An AI-powered recommendation engine that suggests anime based on 100+ features including genres, themes, studios, and viewing patterns.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([NONE](https://alexeiluchian-anime-recommender-app-q9frix.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://alexeiluchian-anime-recommender-app-q9frix.streamlit.app/)
 
 ![Demo Screenshot](screenshots/demo.png)
 
