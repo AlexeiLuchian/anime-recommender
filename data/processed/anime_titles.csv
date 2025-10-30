@@ -1,449 +1,1051 @@
 index,title
-0,Shingeki no Kyojin
+0,Attack on Titan
 1,Death Note
 2,Fullmetal Alchemist: Brotherhood
-3,One Punch Man
-4,Kimetsu no Yaiba
+3,One-Punch Man
+4,Demon Slayer: Kimetsu no Yaiba
 5,Sword Art Online
-6,Boku no Hero Academia
-7,Hunter x Hunter (2011)
+6,My Hero Academia
+7,Hunter x Hunter
 8,Naruto
 9,Tokyo Ghoul
-10,Shingeki no Kyojin Season 2
-11,Jujutsu Kaisen
-12,Steins;Gate
-13,Naruto: Shippuuden
-14,Boku no Hero Academia 2nd Season
-15,Shingeki no Kyojin Season 3
-16,No Game No Life
-17,Shingeki no Kyojin Season 3 Part 2
-18,Code Geass: Hangyaku no Lelouch
-19,Re:Zero kara Hajimeru Isekai Seikatsu
-20,Shigatsu wa Kimi no Uso
-21,Boku no Hero Academia 3rd Season
-22,Toradora!
-23,Noragami
-24,Mob Psycho 100
-25,Boku dake ga Inai Machi
-26,Akame ga Kill!
-27,Shingeki no Kyojin: The Final Season
-28,Nanatsu no Taizai
-29,Angel Beats!
-30,Ansatsu Kyoushitsu
-31,Bleach
-32,Haikyuu!!
-33,Yakusoku no Neverland
-34,Mirai Nikki (TV)
-35,Kono Subarashii Sekai ni Shukufuku wo!
-36,Sword Art Online II
-37,Ao no Exorcist
-38,Cowboy Bebop
-39,Kiseijuu: Sei no Kakuritsu
-40,Shinseiki Evangelion
-41,Violet Evergarden
-42,Code Geass: Hangyaku no Lelouch R2
-43,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-44,Dr. Stone
-45,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
-46,Death Parade
-47,Tokyo Ghoul √A
-48,Boku no Hero Academia 4th Season
-49,Black Clover
-50,One Punch Man 2nd Season
-51,Chainsaw Man
-52,Fairy Tail
-53,Kill la Kill
-54,Spy x Family
-55,JoJo no Kimyou na Bouken (TV)
-56,Darling in the FranXX
-57,Another
-58,Vinland Saga
-59,Soul Eater
-60,Charlotte
-61,Tengen Toppa Gurren Lagann
-62,Tate no Yuusha no Nariagari
-63,Shokugeki no Souma
-64,Psycho-Pass
-65,Overlord
-66,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
-67,Mob Psycho 100 II
-68,Kimetsu no Yaiba: Yuukaku-hen
-69,Hataraku Maou-sama!
-70,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
-71,Kono Subarashii Sekai ni Shukufuku wo! 2
-72,Tensei shitara Slime Datta Ken
-73,Kakegurui
-74,Elfen Lied
-75,Highschool of the Dead
-76,Fate/Zero
-77,Horimiya
-78,Fullmetal Alchemist
-79,Noragami Aragoto
-80,Ansatsu Kyoushitsu 2nd Season
-81,Haikyuu!! Second Season
-82,Yahari Ore no Seishun Love Comedy wa Machigatteiru.
-83,Bungou Stray Dogs
-84,Mushoku Tensei: Isekai Ittara Honki Dasu
-85,Made in Abyss
-86,High School DxD
-87,Enen no Shouboutai
-88,Shingeki no Kyojin: The Final Season Part 2
-89,Clannad
-90,Durarara!!
-91,Bakemonogatari
-92,Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
-93,Hyouka
-94,Chuunibyou demo Koi ga Shitai!
-95,Owari no Seraph
-96,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
-97,Mahou Shoujo Madoka★Magica
-98,Tokyo Revengers
-99,Dororo
-100,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders
-101,Samurai Champloo
-102,Kaichou wa Maid-sama!
-103,Boku no Hero Academia 5th Season
-104,Kobayashi-san Chi no Maid Dragon
-105,Sakura-sou no Pet na Kanojo
-106,Dragon Ball Z
-107,Deadman Wonderland
-108,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou
-109,Kuroko no Basket
-110,Tokyo Ghoul:re
-111,Monster
-112,Jujutsu Kaisen 2nd Season
-113,Guilty Crown
-114,Clannad: After Story
-115,Kuroshitsuji
-116,Zankyou no Terror
-117,Sono Bisque Doll wa Koi wo Suru
-118,Sousou no Frieren
-119,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-120,Nisekoi
-121,Kyoukai no Kanata
-122,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
-123,Saiki Kusuo no Ψ-nan
-124,Goblin Slayer
-125,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen
-126,Ouran Koukou Host Club
-127,Shokugeki no Souma: Ni no Sara
-128,Nanatsu no Taizai: Imashime no Fukkatsu
-129,Fate/Zero 2nd Season
-130,Log Horizon
-131,Dr. Stone: Stone Wars
-132,Fate/stay night: Unlimited Blade Works
-133,Tonari no Kaibutsu-kun
-134,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
-135,Gintama
-136,Mahouka Koukou no Rettousei
-137,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze
-138,Sword Art Online: Alicization
-139,Dragon Ball
-140,ReLIFE
-141,Golden Time
-142,K-On!
-143,Overlord II
-144,Magi: The Labyrinth of Magic
-145,Date A Live
-146,Black Lagoon
-147,Spy x Family Part 2
-148,Prison School
-149,Tensei shitara Slime Datta Ken 2nd Season
-150,Wotaku ni Koi wa Muzukashii
-151,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
-152,"Kanojo, Okarishimasu"
-153,Kaguya-sama wa Kokurasetai: Ultra Romantic
-154,Fairy Tail (2014)
-155,Kimetsu no Yaiba: Katanakaji no Sato-hen
-156,Kami no Tou
-157,Ore dake Level Up na Ken
-158,Kimi ni Todoke
-159,5-toubun no Hanayome
-160,Shokugeki no Souma: San no Sara
-161,Haikyuu!! To the Top
-162,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
-163,Rakudai Kishi no Cavalry
-164,Youjo Senki
-165,Plastic Memories
-166,Mahoutsukai no Yome
-167,Ao Haru Ride
-168,Darker than Black: Kuro no Keiyakusha
-169,[Oshi no Ko]
-170,Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
-171,Overlord III
-172,Fate/stay night
-173,Gekkan Shoujo Nozaki-kun
-174,Yakusoku no Neverland 2nd Season
-175,"Komi-san wa, Comyushou desu."
-176,The God of High School
-177,Suzumiya Haruhi no Yuuutsu
-178,Nichijou
-179,Fumetsu no Anata e
-180,Tokyo Ghoul:re 2nd Season
-181,Black Bullet
-182,High School DxD New
-183,Masamune-kun no Revenge
-184,Baccano!
-185,Banana Fish
-186,Beastars
-187,Yuri!!! on Ice
-188,Bungou Stray Dogs 2nd Season
-189,Steins;Gate 0
-190,Kekkai Sensen
-191,Kimetsu no Yaiba: Mugen Ressha-hen
-192,86
-193,Fruits Basket 1st Season
-194,Akatsuki no Yona
-195,Boruto: Naruto Next Generations
-196,Kuroko no Basket 2nd Season
-197,Fate/stay night: Unlimited Blade Works 2nd Season
-198,Haikyuu!! To the Top Part 2
-199,Great Teacher Onizuka
-200,Btooom!
-201,Dragon Ball Super
-202,Trinity Seven
-203,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
-204,Mushishi
-205,Magi: The Kingdom of Magic
-206,Enen no Shouboutai: Ni no Shou
-207,Orange
-208,"Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
-209,Kokoro Connect
-210,Grand Blue
-211,Tensei shitara Slime Datta Ken 2nd Season Part 2
-212,Danshi Koukousei no Nichijou
-213,Koutetsujou no Kabaneri
-214,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
-215,Serial Experiments Lain
-216,"Ijiranaide, Nagatoro-san"
-217,Jigokuraku
-218,Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
-219,Ookami to Koushinryou
-220,Zero no Tsukaima
-221,Dandadan
-222,Toaru Majutsu no Index
-223,Blue Lock
-224,InuYasha
-225,Higurashi no Naku Koro ni
-226,Tate no Yuusha no Nariagari Season 2
-227,Boku wa Tomodachi ga Sukunai
-228,Owari no Seraph: Nagoya Kessen-hen
-229,High School DxD BorN
-230,Free!
-231,Sword Art Online: Alicization - War of Underworld
-232,Kakegurui××
-233,Sakamoto desu ga?
-234,Wonder Egg Priority
-235,Mob Psycho 100 III
-236,Kuroko no Basket 3rd Season
-237,Trigun
-238,Tonikaku Kawaii
-239,Kage no Jitsuryokusha ni Naritakute!
-240,Domestic na Kanojo
-241,Shinsekai yori
-242,Ao no Exorcist: Kyoto Fujouou-hen
-243,NHK ni Youkoso!
-244,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan
-245,K
-246,Rokudenashi Majutsu Koushi to Akashic Records
-247,Arifureta Shokugyou de Sekai Saikyou
-248,Vinland Saga Season 2
-249,Monster Musume no Iru Nichijou
-250,Hai to Gensou no Grimgar
-251,5-toubun no Hanayome ∬
-252,Kiznaiver
-253,Chuunibyou demo Koi ga Shitai! Ren
-254,Isekai Maou to Shoukan Shoujo no Dorei Majutsu
-255,Nanatsu no Taizai: Kamigami no Gekirin
-256,91 Days
-257,Hellsing
-258,Tsurezure Children
-259,Boku no Hero Academia 6th Season
-260,Nisemonogatari
-261,Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen
-262,Nanatsu no Taizai: Seisen no Shirushi
-263,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
-264,Eromanga-sensei
-265,Nana
-266,Mashle
-267,Kenpuu Denki Berserk
-268,Accel World
-269,Yuu☆Yuu☆Hakusho
-270,K-On!!
-271,Bocchi the Rock!
-272,Kusuriya no Hitorigoto
-273,Nisekoi:
-274,Ousama Ranking
-275,Great Pretender
-276,Yofukashi no Uta
-277,Himouto! Umaru-chan
-278,Akagami no Shirayuki-hime
-279,Kuzu no Honkai
-280,Satsuriku no Tenshi
-281,D.Gray-man
-282,Ore Monogatari!!
-283,3-gatsu no Lion
-284,Shinmai Maou no Testament
-285,Rosario to Vampire
-286,Blood Lad
-287,Ore no Imouto ga Konnani Kawaii Wake ga Nai
-288,Claymore
-289,Mushoku Tensei II: Isekai Ittara Honki Dasu
-290,Kamisama Hajimemashita
-291,Monogatari Series: Second Season
-292,Saenai Heroine no Sodatekata
-293,Barakamon
-294,Kimetsu no Yaiba: Hashira Geiko-hen
-295,Saiki Kusuo no Ψ-nan 2
-296,School Days
-297,Ergo Proxy
-298,Little Witch Academia (TV)
-299,Gakusen Toshi Asterisk
-300,Blend S
-301,Bungou Stray Dogs 3rd Season
-302,Amagi Brilliant Park
-303,Inuyashiki
-304,Gamers!
-305,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
-306,Hataraku Saibou
-307,Suki tte Ii na yo.
-308,Psycho-Pass 2
-309,Lucky☆Star
-310,Ore dake Level Up na Ken Season 2: Arise from the Shadow
-311,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru
-312,Gintama°
-313,Date A Live II
-314,To LOVE-Ru
-315,Sword Art Online: Alicization - War of Underworld 2nd Season
-316,Jibaku Shounen Hanako-kun
-317,Hajime no Ippo
-318,Pokemon
-319,IS: Infinite Stratos
-320,Kaijuu 8-gou
-321,Dragon Ball GT
-322,Rokka no Yuusha
-323,Strike the Blood
-324,Bleach: Sennen Kessen-hen
-325,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III
-326,Sword Art Online Alternative: Gun Gale Online
-327,Baka to Test to Shoukanjuu
-328,Hige wo Soru. Soshite Joshikousei wo Hirou.
-329,Shokugeki no Souma: Shin no Sara
-330,Kami nomi zo Shiru Sekai
-331,Sankarea
-332,Kore wa Zombie desu ka?
-333,Bakuman.
-334,Grisaia no Kajitsu
-335,Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
-336,Summertime Render
-337,Kenja no Mago
-338,Log Horizon 2nd Season
-339,Toaru Kagaku no Railgun
-340,Shiki
-341,Lovely★Complex
-342,Hunter x Hunter
-343,Nagi no Asu kara
-344,Kaifuku Jutsushi no Yarinaoshi
-345,Vampire Knight
-346,Karakai Jouzu no Takagi-san
-347,Spy x Family Season 2
-348,Beelzebub
-349,Given
-350,Zetsuen no Tempest
-351,Ajin
-352,Gangsta.
-353,SK∞
-354,Isekai wa Smartphone to Tomo ni.
-355,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
-356,Dorohedoro
-357,Overlord IV
-358,Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?
-359,Vanitas no Karte
-360,86 Part 2
-361,Drifters
-362,Kawaii dake ja Nai Shikimori-san
-363,Darwin's Game
-364,Gintama'
-365,Kobayashi-san Chi no Maid Dragon S
-366,Kiss x Sis (TV)
-367,Tengoku Daimakyou
-368,Kuroshitsuji II
-369,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2"
-370,Vivy: Fluorite Eye's Song
-371,Gosick
-372,Higashi no Eden
-373,Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
-374,Katanagatari
-375,Hajimete no Gal
-376,Netoge no Yome wa Onnanoko ja Nai to Omotta?
-377,Tsuki ga Kirei
-378,Ore no Kanojo to Osananajimi ga Shuraba Sugiru
-379,Absolute Duo
-380,Katekyou Hitman Reborn!
-381,Natsume Yuujinchou
-382,Musaigen no Phantom World
-383,Shokugeki no Souma: Gou no Sara
-384,Lycoris Recoil
-385,Dr. Stone: New World
-386,God Eater
-387,Fruits Basket 2nd Season
-388,Black Lagoon: The Second Barrage
-389,Fruits Basket
-390,Takt Op. Destiny
-391,Suzumiya Haruhi no Yuuutsu (2009)
-392,Ichiban Ushiro no Daimaou
-393,Shakugan no Shana
-394,Boku wa Tomodachi ga Sukunai Next
-395,Fairy Tail: Final Series
-396,Citrus
-397,Death March kara Hajimaru Isekai Kyousoukyoku
-398,High School DxD Hero
-399,Mairimashita! Iruma-kun
-400,Hinamatsuri
-401,Sousei no Onmyouji
-402,Fruits Basket: The Final
-403,Sora yori mo Tooi Basho
-404,Mieruko-chan
-405,Kimi ni Todoke 2nd Season
-406,"Komi-san wa, Comyushou desu. 2nd Season"
-407,Megalo Box
-408,Yosuga no Sora
-409,Re:Creators
-410,Tsuki ga Michibiku Isekai Douchuu
-411,Aldnoah.Zero
-412,Yuru Camp△
-413,Gleipnir
-414,Dungeon Meshi
-415,Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
-416,Zombieland Saga
-417,Zero no Tsukaima: Futatsuki no Kishi
-418,Aho Girl
-419,Kyokou Suiri
-420,Inu x Boku SS
-421,Asobi Asobase
-422,Full Metal Panic!
-423,Usagi Drop
-424,Rurouni Kenshin: Meiji Kenkaku Romantan
-425,Kono Subarashii Sekai ni Shukufuku wo! 3
-426,Made in Abyss: Retsujitsu no Ougonkyou
-427,Maoyuu Maou Yuusha
-428,Mayo Chiki!
-429,Uzaki-chan wa Asobitai!
-430,Ookami to Koushinryou II
-431,Hataraku Maou-sama!!
-432,Seitokai Yakuindomo
-433,Blue Period
-434,Yamada-kun to Lv999 no Koi wo Suru
-435,Higurashi no Naku Koro ni Kai
-436,Tokyo Ravens
-437,Magi: Sinbad no Bouken (TV)
-438,Durarara!!x2 Shou
-439,Chobits
-440,Tanaka-kun wa Itsumo Kedaruge
-441,Houseki no Kuni
-442,Fate/Apocrypha
-443,Tate no Yuusha no Nariagari Season 3
-444,Owarimonogatari
-445,Net-juu no Susume
-446,Sora no Otoshimono
-447,Hibike! Euphonium
+10,Your Name.
+11,Attack on Titan Season 2
+12,Jujutsu Kaisen
+13,Steins;Gate
+14,Naruto Shippuden
+15,My Hero Academia Season 2
+16,One Piece
+17,Attack on Titan Season 3
+18,A Silent Voice
+19,"No Game, No Life"
+20,Attack on Titan Season 3 Part 2
+21,Code Geass: Lelouch of the Rebellion
+22,Re:ZERO -Starting Life in Another World-
+23,Your Lie in April
+24,My Hero Academia Season 3
+25,Toradora!
+26,Noragami
+27,Mob Psycho 100
+28,Erased
+29,Akame ga Kill!
+30,Attack on Titan: Final Season
+31,The Seven Deadly Sins
+32,Angel Beats!
+33,Assassination Classroom
+34,Bleach
+35,Haikyu!!
+36,The Promised Neverland
+37,The Future Diary
+38,KonoSuba: God's Blessing on This Wonderful World!
+39,Sword Art Online II
+40,Blue Exorcist
+41,Cowboy Bebop
+42,Parasyte: The Maxim
+43,Spirited Away
+44,Neon Genesis Evangelion
+45,Violet Evergarden
+46,Code Geass: Lelouch of the Rebellion R2
+47,Rascal Does Not Dream of Bunny Girl Senpai
+48,Dr. Stone
+49,Kaguya-sama: Love is War
+50,Death Parade
+51,Tokyo Ghoul √A
+52,My Hero Academia Season 4
+53,Black Clover
+54,One-Punch Man Season 2
+55,Chainsaw Man
+56,Fairy Tail
+57,Kill la Kill
+58,Spy x Family
+59,JoJo's Bizarre Adventure (2012)
+60,Darling in the FranXX
+61,Another
+62,Vinland Saga
+63,Soul Eater
+64,Charlotte
+65,The Rising of the Shield Hero
+66,Gurren Lagann
+67,Food Wars! Shokugeki no Soma
+68,Psycho-Pass
+69,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
+70,Overlord
+71,Anohana: The Flower We Saw That Day
+72,Mob Psycho 100 II
+73,Demon Slayer: Kimetsu no Yaiba Entertainment District Arc
+74,The Devil is a Part-Timer!
+75,Is It Wrong to Try to Pick Up Girls in a Dungeon?
+76,KonoSuba: God's Blessing on This Wonderful World! 2
+77,That Time I Got Reincarnated as a Slime
+78,Kakegurui
+79,Elfen Lied
+80,Highschool of the Dead
+81,Fate/Zero
+82,Horimiya
+83,Fullmetal Alchemist
+84,Noragami Aragoto
+85,Assassination Classroom Second Season
+86,Haikyu!! 2nd Season
+87,My Teen Romantic Comedy SNAFU
+88,Bungo Stray Dogs
+89,Mushoku Tensei: Jobless Reincarnation
+90,Made in Abyss
+91,High School DxD
+92,Fire Force
+93,Attack on Titan: Final Season Part 2
+94,Clannad
+95,Durarara!!
+96,Bakemonogatari
+97,Kaguya-sama: Love is War?
+98,Hyouka
+99,Howl's Moving Castle
+100,"Love, Chunibyo & Other Delusions!"
+101,Seraph of the End: Vampire Reign
+102,Classroom of the Elite
+103,Puella Magi Madoka Magica
+104,Tokyo Revengers
+105,Princess Mononoke
+106,Dororo
+107,JoJo's Bizarre Adventure: Stardust Crusaders
+108,Samurai Champloo
+109,Maid Sama!
+110,My Hero Academia Season 5
+111,Miss Kobayashi's Dragon Maid
+112,The Pet Girl of Sakurasou
+113,Dragon Ball Z
+114,Deadman Wonderland
+115,Haikyu!! 3rd Season
+116,Kuroko's Basketball
+117,Tokyo Ghoul:re
+118,Monster
+119,Jujutsu Kaisen Season 2
+120,Guilty Crown
+121,Clannad: After Story
+122,Black Butler
+123,My Dress-Up Darling
+124,Terror in Resonance
+125,Devilman: Crybaby
+126,Frieren: Beyond Journey's End
+127,Re:ZERO -Starting Life in Another World- Season 2
+128,Nisekoi: False Love
+129,Beyond the Boundary
+130,JoJo's Bizarre Adventure: Diamond Is Unbreakable
+131,The Disastrous Life of Saiki K.
+132,Goblin Slayer
+133,JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt
+134,Ouran High School Host Club
+135,Food Wars! The Second Plate
+136,The Seven Deadly Sins: Revival of the Commandments
+137,Fate/Zero Season 2
+138,Jujutsu Kaisen 0
+139,Log Horizon
+140,Dr. Stone: Stone Wars
+141,Fate/stay night [Unlimited Blade Works]
+142,My Little Monster
+143,My Neighbor Totoro
+144,My Teen Romantic Comedy SNAFU TOO!
+145,Gintama
+146,The Irregular at Magic High School
+147,JoJo's Bizarre Adventure: Golden Wind
+148,Sword Art Online: Alicization
+149,Dragon Ball
+150,ReLIFE
+151,Golden Time
+152,K-On!
+153,Overlord II
+154,Magi: The Labyrinth of Magic
+155,Weathering with You
+156,Date A Live
+157,Black Lagoon
+158,Spy x Family Part 2
+159,Prison School
+160,I Want To Eat Your Pancreas
+161,That Time I Got Reincarnated as a Slime Season 2
+162,Mushoku Tensei: Jobless Reincarnation Part 2
+163,Wotakoi: Love is Hard for Otaku
+164,Rent-a-Girlfriend
+165,Kaguya-sama: Love is War -Ultra Romantic-
+166,Fairy Tail Series 2
+167,Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc
+168,Solo Leveling
+169,Tower of God
+170,Kimi ni Todoke: From Me to You
+171,The Quintessential Quintuplets
+172,Food Wars! The Third Plate
+173,Re:ZERO -Starting Life in Another World- Season 2 Part 2
+174,Haikyu!! To the Top
+175,Chivalry of a Failed Knight
+176,Saga of Tanya the Evil
+177,Neon Genesis Evangelion: The End of Evangelion
+178,Plastic Memories
+179,The Ancient Magus' Bride
+180,Hellsing Ultimate
+181,5 Centimeters per Second
+182,Blue Spring Ride
+183,Darker than Black
+184,[Oshi no Ko]
+185,Danganronpa: The Animation
+186,Overlord III
+187,Fate/stay night
+188,Monthly Girls' Nozaki-kun
+189,The Promised Neverland Season 2
+190,Komi Can't Communicate
+191,The God of High School
+192,Cyberpunk: Edgerunners
+193,The Melancholy of Haruhi Suzumiya
+194,To Your Eternity
+195,Nichijou - My Ordinary Life
+196,Tokyo Ghoul:re 2nd Season
+197,Black Bullet
+198,High School DxD New
+199,Masamune-kun's Revenge
+200,Baccano!
+201,Banana Fish
+202,Beastars
+203,Yuri!!! on Ice
+204,Bungo Stray Dogs 2
+205,Steins;Gate 0
+206,"No Game, No Life: Zero"
+207,Akira
+208,Blood Blockade Battlefront
+209,Demon Slayer: Kimetsu no Yaiba Mugen Train Arc
+210,86 Eighty-Six
+211,Fruits Basket 1st Season
+212,Yona of the Dawn
+213,The Garden of Words
+214,Boruto: Naruto Next Generations
+215,Kuroko's Basketball 2
+216,Fate/stay night [Unlimited Blade Works] Season 2
+217,Haikyu!! To the Top 2nd-cour
+218,Great Teacher Onizuka
+219,Btooom!
+220,Dragon Ball Super
+221,Trinity Seven
+222,Is It Wrong to Try to Pick Up Girls in a Dungeon? II
+223,Mushi-Shi
+224,Magi: The Kingdom of Magic
+225,Fire Force Season 2
+226,Orange
+227,The Misfit of Demon King Academy
+228,FLCL
+229,Kokoro Connect
+230,Grand Blue Dreaming
+231,That Time I Got Reincarnated as a Slime Season 2 Part 2
+232,Daily Lives of High School Boys
+233,Kabaneri of the Iron Fortress
+234,Serial Experiments Lain
+235,Hell's Paradise
+236,GATE
+237,"Don't Toy with Me, Miss Nagatoro"
+238,Into the Forest of Fireflies' Light
+239,SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist
+240,KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson
+241,Dandadan
+242,Spice and Wolf
+243,The Familiar of Zero
+244,A Certain Magical Index
+245,Wolf Children
+246,Blue Lock
+247,InuYasha
+248,Higurashi: When They Cry
+249,The Rising of the Shield Hero Season 2
+250,Haganai: I don't have many friends
+251,Seraph of the End: Battle in Nagoya
+252,Yamada-kun and the Seven Witches
+253,High School DxD BorN
+254,Free! - Iwatobi Swim Club
+255,The Girl Who Leapt Through Time
+256,Sword Art Online: Alicization - War of Underworld
+257,Kakegurui××
+258,Mob Psycho 100 III
+259,Haven't You Heard? I'm Sakamoto
+260,Wonder Egg Priority
+261,The Eminence in Shadow
+262,Kuroko's Basketball 3
+263,Trigun
+264,Tonikawa: Over The Moon For You
+265,Domestic Girlfriend
+266,From the New World
+267,Blue Exorcist: Kyoto Saga
+268,Welcome to the N.H.K.
+269,Attack on Titan: Final Season - The Final Chapters
+270,My Teen Romantic Comedy SNAFU Climax!
+271,My Hero Academia: Two Heroes
+272,Akashic Records of Bastard Magic Instructor
+273,K
+274,Rascal Does Not Dream of a Dreaming Girl
+275,Vinland Saga Season 2
+276,Arifureta: From Commonplace to World's Strongest
+277,Monster Musume: Everyday Life with Monster Girls
+278,Perfect Blue
+279,Grimgar: Ashes and Illusions
+280,The Quintessential Quintuplets 2
+281,Kiznaiver
+282,"Love, Chunibyo & Other Delusions!: Heart Throb"
+283,How Not to Summon a Demon Lord
+284,The Seven Deadly Sins: Imperial Wrath of the Gods
+285,91 Days
+286,Hellsing
+287,My Hero Academia Season 6
+288,Tsuredure Children
+289,Sword Art Online the Movie: Ordinal Scale
+290,Nisemonogatari
+291,Food Wars! The Third Plate: Totsuki Train Arc
+292,Classroom of the Elite II
+293,The Seven Deadly Sins: Signs of Holy War
+294,Eromanga Sensei
+295,Nana
+296,Mashle: Magic and Muscles
+297,Grave of the Fireflies
+298,Berserk
+299,The Apothecary Diaries
+300,Accel World
+301,Yu Yu Hakusho: Ghost Files
+302,K-ON! Season 2
+303,Bocchi the Rock!
+304,Nisekoi: False Love Season 2
+305,Ranking of Kings
+306,Call of the Night
+307,Great Pretender
+308,Himouto! Umaru-chan
+309,Snow White with the Red Hair
+310,Scum's Wish
+311,Angels of Death
+312,D.Gray-man
+313,My Love Story!!
+314,March Comes In Like a Lion
+315,The Testament of Sister New Devil
+316,Rosario + Vampire
+317,Blood Lad
+318,OreImo
+319,Claymore
+320,Mushoku Tensei: Jobless Reincarnation Season 2
+321,Kamisama Kiss
+322,Monogatari Series: Second Season
+323,Saekano: How to Raise a Boring Girlfriend
+324,Demon Slayer: Kimetsu no Yaiba Hashira Training Arc
+325,Barakamon
+326,The Disastrous Life of Saiki K. 2
+327,School Days
+328,Violet Evergarden: The Movie
+329,Ergo Proxy
+330,Little Witch Academia
+331,The Asterisk War
+332,BLEND-S
+333,Bungo Stray Dogs 3
+334,Amagi Brilliant Park
+335,Inuyashiki: Last Hero
+336,Gamers!
+337,"WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!"
+338,Cells at Work!
+339,"Say ""I Love You."""
+340,Ghost in the Shell
+341,Solo Leveling Season 2: Arise from the Shadow
+342,Psycho-Pass 2
+343,Lucky☆Star
+344,Cautious Hero: The Hero Is Overpowered but Overly Cautious
+345,Gintama Season 4
+346,Date A Live II
+347,To Love Ru
+348,Sword Art Online: Alicization - War of Underworld Part 2
+349,Kaiju No. 8
+350,Toilet-Bound Hanako-kun
+351,Fighting Spirit
+352,Pokémon
+353,Infinite Stratos
+354,Dragon Ball GT
+355,Rokka: Braves of the Six Flowers
+356,Bleach: Thousand-Year Blood War
+357,Strike the Blood
+358,Is It Wrong to Try to Pick Up Girls in a Dungeon? III
+359,Sword Art Online Alternative: Gun Gale Online
+360,"Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
+361,Baka & Test: Summon the Beasts
+362,Food Wars! The Fourth Plate
+363,The World God Only Knows
+364,Naruto Shippuden the Movie 7: The Last
+365,Sankarea: Undying Love
+366,Bakuman.
+367,Zom 100: Bucket List of the Dead
+368,Is This a Zombie?
+369,The Fruit of Grisaia
+370,Summer Time Rendering
+371,Wise Man's Grandchild
+372,Kiki's Delivery Service
+373,Log Horizon 2
+374,A Certain Scientific Railgun
+375,The Disappearance of Haruhi Suzumiya
+376,Ponyo
+377,Shiki
+378,Lovely Complex
+379,Hunter x Hunter
+380,Steins;Gate: The Movie - Load Region of Déjà Vu
+381,Redo of Healer
+382,A Lull in the Sea
+383,Spy x Family Season 2
+384,Vampire Knight
+385,Teasing Master Takagi-san
+386,Beelzebub
+387,Given
+388,Blast of Tempest
+389,Ajin: Demi-Human
+390,SK8 the Infinity
+391,Gangsta.
+392,My Hero Academia: Heroes Rising
+393,In Another World With My Smartphone
+394,The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+395,Dorohedoro
+396,Overlord IV
+397,"Problem Children Are Coming from Another World, Aren't They?"
+398,86 Eighty-Six Part 2
+399,The Case Study of Vanitas
+400,Drifters
+401,Evangelion: 1.0 You Are (Not) Alone
+402,Shikimori's Not Just a Cutie
+403,Darwin's Game
+404,Gintama Season 2
+405,Miss Kobayashi's Dragon Maid S
+406,Heavenly Delusion
+407,Kiss x Sis (TV)
+408,Black Butler II
+409,GATE Part 2
+410,Paprika
+411,Vivy -Fluorite Eye's Song-
+412,Gosick
+413,Eden of The East
+414,"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
+415,Katanagatari
+416,My First Girlfriend is a Gal
+417,And you thought there is never a girl online?
+418,Tsuki ga Kirei
+419,Oreshura
+420,Absolute Duo
+421,Nekomonogatari Black
+422,Reborn!
+423,Evangelion: 2.0 You Can (Not) Advance
+424,JoJo's Bizarre Adventure: Stone Ocean
+425,Natsume's Book of Friends
+426,Myriad Colors Phantom World
+427,Food Wars! The Fifth Plate
+428,Lycoris Recoil
+429,Dr. Stone: New World
+430,God Eater
+431,Kizumonogatari Part 1: Iron-Blooded
+432,Fruits Basket 2nd Season
+433,Black Lagoon: The Second Barrage
+434,Fruits Basket
+435,Takt Op. Destiny
+436,The Melancholy of Haruhi Suzumiya Season 2
+437,Demon King Daimao
+438,Shakugan no Shana: Season I
+439,Haganai: I don't have many friends NEXT
+440,Attack on Titan: No Regrets
+441,Fairy Tail Final Series
+442,Citrus
+443,Death March to the Parallel World Rhapsody
+444,High School DxD Hero
+445,Welcome to Demon School! Iruma-kun
+446,Hinamatsuri
+447,Twin Star Exorcists
+448,Fruits Basket: The Final Season
+449,A Place Further Than The Universe
+450,Mieruko-chan
+451,Summer Wars
+452,Kimi ni Todoke: From Me to You Season 2
+453,Komi Can't Communicate Season 2
+454,Megalo Box
+455,"Yosuga no Sora: In Solitude, Where We Are Least Alone"
+456,Re:Creators
+457,Tsukimichi -Moonlit Fantasy-
+458,Aldnoah.Zero
+459,Laid-Back Camp
+460,Delicious in Dungeon
+461,Gleipnir
+462,Mushoku Tensei: Jobless Reincarnation Season 2 Part 2
+463,Castle in the Sky
+464,Zombieland Saga
+465,The Familiar of Zero: Knight of the Twin Moons
+466,AHO-GIRL
+467,In/Spectre
+468,Asobi Asobase - workshop of fun -
+469,Inu X Boku Secret Service
+470,Full Metal Panic!
+471,Made in Abyss: Dawn of the Deep Soul
+472,Bunny Drop
+473,KonoSuba: God's Blessing on This Wonderful World! 3
+474,Rurouni Kenshin
+475,Made in Abyss: The Golden City of the Scorching Sun
+476,Maoyu
+477,Uzaki-chan Wants to Hang Out!
+478,Mayo Chiki!
+479,The Devil is a Part-Timer! Season 2
+480,Spice and Wolf II
+481,My Love Story with Yamada-kun at Lv999
+482,Blue Period
+483,Student Council Staff Members
+484,Higurashi: When They Cry – Kai
+485,Tokyo Ravens
+486,Magi: Adventure of Sinbad
+487,Durarara!!x2 Shou
+488,Chobits
+489,Land of the Lustrous
+490,Tanaka-kun is Always Listless
+491,"Josee, the Tiger and the Fish"
+492,Fate/Apocrypha
+493,The Rising of the Shield Hero Season 3
+494,Fate/stay night: Heaven's Feel - I. Presage Flower
+495,Owarimonogatari
+496,Recovery of an MMO Junkie
+497,Kizumonogatari Part 3: Cold-Blooded
+498,Sound! Euphonium
+499,Heaven's Lost Property
+500,My Next Life as a Villainess: All Routes Lead to Doom!
+501,Interspecies Reviewers
+502,Attack on Titan OAD
+503,The Eminence in Shadow Season 2
+504,Wolf Girl & Black Prince
+505,ORESUKI Are you the only one who loves me?
+506,"So I'm a Spider, So What?"
+507,Classroom of the Elite III
+508,Moriarty the Patriot
+509,Odd Taxi
+510,Boruto: Naruto the Movie
+511,Chihayafuru
+512,"Kiss Him, Not Me!"
+513,The Tatami Galaxy
+514,Beastars 2nd Season
+515,Tomo-chan Is a Girl!
+516,Dagashi Kashi
+517,Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side
+518,A Whisker Away
+519,A Certain Magical Index II
+520,Plunderer
+521,Evangelion: 3.0 You Can (Not) Redo
+522,Maquia: When the Promised Flower Blooms
+523,Kizumonogatari Part 2: Hot-Blooded
+524,Gabriel DropOut
+525,Akudama Drive
+526,Cardcaptor Sakura
+527,School-Live!
+528,Mashle: Magic and Muscles The Divine Visionary Candidate Exam Arc
+529,[Oshi No Ko] Season 2
+530,Tomodachi Game
+531,We Never Learn: BOKUBEN
+532,Suzume
+533,Kaze no Stigma
+534,Violet Evergarden: Eternity and the Auto Memory Doll
+535,Blood Blockade Battlefront & Beyond
+536,"The ""Hentai"" Prince and the Stony Cat."
+537,The Seven Deadly Sins: Dragon's Judgement
+538,Shirobako
+539,Baki
+540,Love Live! School Idol Project
+541,Steins;Gate: Egoistic Poriomania
+542,The Millionaire Detective – Balance: Unlimited
+543,The Way of the Househusband
+544,Rent-a-Girlfriend Season 2
+545,The Familiar of Zero: Rondo of Princesses
+546,Paranoia Agent
+547,World Trigger
+548,The Asterisk War Season 2
+549,No.6
+550,Link Click
+551,Alya Sometimes Hides Her Feelings in Russian
+552,Kamisama Kiss Season 2
+553,How Not to Summon a Demon Lord Ω
+554,Mekakucity Actors
+555,Eureka Seven
+556,Tamako Market
+557,Dragon Ball Super: Broly
+558,OreImo 2
+559,Aesthetica of a Rogue Hero
+560,Wagnaria!!
+561,New Game!
+562,Non Non Biyori
+563,Re:ZERO -Starting Life in Another World- Season 3
+564,The Boy and the Beast
+565,Hanamonogatari
+566,Pandora Hearts
+567,The Garden of Sinners Chapter 1: Overlooking View
+568,When Supernatural Battles Became Commonplace
+569,Arifureta: From Commonplace to World's Strongest Season 2
+570,Golden Boy
+571,Sakamoto Days
+572,Wandering Witch: The Journey of Elaina
+573,How a Realist Hero Rebuilt the Kingdom
+574,Love and Lies
+575,Dan Da Dan Season 2
+576,That Time I Got Reincarnated as a Slime Season 3
+577,Dusk Maiden of Amnesia
+578,The Familiar of Zero F
+579,"So, I Can't Play H!"
+580,Seirei Gensouki: Spirit Chronicles
+581,Tsukimonogatari
+582,Golden Kamuy
+583,Interviews With Monster Girls
+584,Black Butler: Book of Circus
+585,Rosario + Vampire Capu2
+586,KonoSuba: God's Blessing on This Wonderful World! - God's Blessing on This Wonderful Choker!
+587,Free! Eternal Summer
+588,Panty & Stocking with Garterbelt
+589,ReLIFE: Final Arc
+590,I've Been Killing Slimes for 300 Years and Maxed Out My Level
+591,Rage of Bahamut: Genesis
+592,WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?
+593,The Eden of Grisaia
+594,Bottom-Tier Character Tomozaki
+595,March Comes In Like a Lion 2nd Season
+596,Owarimonogatari Second Season
+597,Sekirei
+598,Horimiya: The Missing Pieces
+599,Date A Live III
+600,Ping Pong the Animation
+601,The Hidden Dungeon Only I Can Enter
+602,Wind Breaker
+603,Initial D First Stage
+604,Darker than Black: Gemini of the Meteor
+605,Shangri-La Frontier
+606,The Testament of Sister New Devil: Burst
+607,Fate/stay night: Heaven's Feel - II. Lost Butterfly
+608,How Heavy Are the Dumbbells You Lift?
+609,Dragon Ball Z Kai
+610,Undefeated Bahamut Chronicle
+611,My Mental Choices Are Completely Interfering With My School Romantic Comedy
+612,Keijo!!!!!!!!
+613,Yu-Gi-Oh!
+614,Digimon: Digital Monsters
+615,Rainbow
+616,My Hero Academia Season 7
+617,Tamako Love Story
+618,Ghost in the Shell: Stand Alone Complex
+619,Id:Invaded
+620,Durarara!!x2 Ten
+621,The Apothecary Diaries Season 2
+622,Redline
+623,Engaged to the Unidentified
+624,Tokyo Revengers: Christmas Showdown
+625,"Girlfriend, Girlfriend"
+626,Kemono Jihen
+627,Combatants Will Be Dispatched!
+628,Evangelion: 3.0+1.0 Thrice Upon a Time
+629,Uncle from Another World
+630,Platinum End
+631,Armed Girl's Machiavellism
+632,The Dangers in My Heart
+633,Infinite Stratos 2
+634,Azumanga Daioh: The Animation
+635,D-Frag!
+636,Kids on the Slope
+637,Puella Magi Madoka Magica the Movie: Rebellion
+638,Campione!
+639,A Certain Scientific Railgun S
+640,Isekai Quartet
+641,Sailor Moon
+642,Yamada's First Time: B Gata H Kei
+643,Nausicaä of the Valley of the Wind
+644,The World God Only Knows II
+645,Waiting in the Summer
+646,Boarding School Juliet
+647,The Angel Next Door Spoils Me Rotten
+648,Cowboy Bebop: The Movie
+649,Amagami SS
+650,Afro Samurai
+651,The Detective Is Already Dead
+652,Corpse Party: Tortured Souls
+653,The Kawai Complex Guide to Manors and Hostel Behavior
+654,KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!
+655,Chaika: The Coffin Princess
+656,Blood-C
+657,Goblin Slayer II
+658,"More than a Married Couple, but Not Lovers."
+659,Durarara!!x2 Ketsu
+660,Whisper of the Heart
+661,BNA: Brand New Animal
+662,Dr. Stone: New World Part 2
+663,Is It Wrong to Try to Pick Up Girls in a Dungeon? IV
+664,The Misfit of Demon King Academy Ⅱ
+665,Blood+
+666,The Heroic Legend of Arslan
+667,Hundred
+668,Saekano: How to Raise a Boring Girlfriend .flat
+669,Fate/stay night: Heaven's Feel - III. Spring Song
+670,Is This a Zombie? of the Dead
+671,Love Tyrant
+672,Aria the Scarlet Ammo
+673,Jormungand
+674,To LOVE Ru Darkness
+675,Berserk (2016)
+676,The King's Avatar
+677,My Dress-Up Darling Season 2
+678,The Irregular at Magic High School: Visitor Arc
+679,Girls' Last Tour
+680,Lord Marksman and Vanadis
+681,"Science Fell in Love, So I Tried to Prove It"
+682,The Secret World of Arrietty
+683,Space Dandy
+684,Snow White with the Red Hair 2
+685,Kaiji: Ultimate Survivor
+686,The Daily Life of the Immortal King
+687,Aharen-san wa Hakarenai
+688,Baka & Test – Summon the Beasts 2
+689,Bleach: Thousand-Year Blood War - The Separation
+690,"Why the Hell are You Here, Teacher!?"
+691,Special A (S.A)
+692,Blade Dance of the Elementalers
+693,Vampire Knight Guilty
+694,Shaman King
+695,Hell Girl
+696,Outbreak Company
+697,Gantz
+698,The Helpful Fox Senko-san
+699,"Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside"
+700,KonoSuba: An Explosion on This Wonderful World!
+701,The Wind Rises
+702,One-Punch Man Season 3
+703,Danganronpa 3: The End of Hope's Peak High School - Future Arc
+704,Bloom Into You
+705,Remake Our Life!
+706,Naruto Shippuden the Movie 6: Road to Ninja
+707,The Slime Diaries
+708,Case Closed
+709,Nyaruko: Crawling With Love!
+710,School Babysitters
+711,Arakawa Under the Bridge
+712,High-Rise Invasion
+713,My Senpai is Annoying
+714,The Future Diary: Redial
+715,Diabolik Lovers
+716,Talentless Nana
+717,O Maidens in Your Savage Season
+718,I Can't Understand What My Husband Is Saying
+719,Bakuman. Season 2
+720,"I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too"
+721,Air Gear
+722,Beck: Mongolian Chop Squad
+723,Real Girl
+724,Assassins Pride
+725,B: The Beginning
+726,Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs
+727,Black Rock Shooter
+728,Dr. Stone: Ryusui
+729,My Happy Marriage
+730,A Sister's All You Need
+731,Record of Ragnarok
+732,Witch Craft Works
+733,The World God Only Knows: Goddesses
+734,"Violet Evergarden: The Day You Understand ""I Love You"" Will Surely Come"
+735,Keep Your Hands Off Eizouken!
+736,Sonny Boy
+737,"Sayonara, Zetsubou-Sensei"
+738,Welcome to Demon School! Iruma-kun Season 2
+739,The Troubled Life of Miss Kotoura
+740,Skeleton Knight in Another World
+741,Mononoke
+742,Isekai Cheat Magician
+743,Iroduku: The World in Colors
+744,Gargantia on the Verdurous Planet
+745,Welcome to the Ballroom
+746,Nanbaka
+747,Teasing Master Takagi-san 2
+748,Ascendance of a Bookworm
+749,Brynhildr in the Darkness
+750,"Hensuki: Are you willing to Fall in Love with a Pervert, as long as she's a Cutie?"
+751,Legend of the Galactic Heroes
+752,Phantom: Requiem for the Phantom
+753,Gintama: Enchousen
+754,Code:Breaker
+755,The Anthem of the Heart
+756,YuruYuri: Happy Go Lily
+757,Sword of the Stranger
+758,Motto To LOVE Ru
+759,Kaguya-sama: Love is War -The First Kiss That Never Ends-
+760,K-ON! The Movie
+761,Kakushigoto
+762,Mysterious Girlfriend X
+763,Wolf's Rain
+764,Carole & Tuesday
+765,The Qwaser of Stigmata
+766,Kino's Journey
+767,Kiss x Sis
+768,K: Return of Kings
+769,Bungo Stray Dogs 4
+770,Bakuman. Season 3
+771,The Faraway Paladin
+772,Hanasaku Iroha: Blossoms for Tomorrow
+773,Danganronpa 3: The End of Hope's Peak High School - Despair Arc
+774,My Bride is a Mermaid
+775,Fullmetal Alchemist: The Movie - Conqueror of Shamballa
+776,I'm Quitting Heroing
+777,Alderamin on the Sky
+778,One Punch Man Specials
+779,Ben-To
+780,Kono Oto Tomare!: Sounds of Life
+781,School Rumble
+782,xxxHOLiC
+783,Fate/stay night [Unlimited Blade Works] - Prologue
+784,Gintama Season 5
+785,Tales of Zestiria the X
+786,Our Last Crusade or the Rise of a New World
+787,Unbreakable Machine-Doll
+788,One Punch Man: Road to Hero
+789,Record of Grancrest War
+790,Freezing
+791,Kuroko's Basketball the Movie: Last Game
+792,Devil May Cry
+793,Code Geass: Lelouch of the Re;surrection
+794,Sweetness & Lightning
+795,Buddy Daddies
+796,Noragami OVA
+797,Haikyu!! Land vs. Air
+798,Place to Place
+799,Astra Lost in Space
+800,The World is Still Beautiful
+801,[C] CONTROL - The Money and Soul of Possibility
+802,The Case Study of Vanitas Part 2
+803,The Fragrant Flower Blooms with Dignity
+804,Just Because!
+805,Sword Art Online: Extra Edition
+806,Attack on Titan: Lost Girls
+807,After the Rain
+808,World Break: Aria of Curse for a Holy Swordsman
+809,Slam Dunk
+810,One Week Friends
+811,Undead Unluck
+812,"Sing ""Yesterday"" for Me"
+813,The Greatest Demon Lord Is Reborn as a Typical Nobody
+814,Nodame Cantabile
+815,Happy Sugar Life
+816,My Stepmom's Daughter Is My Ex
+817,NieR:Automata Ver1.1a
+818,Run with the Wind
+819,Skip and Loafer
+820,Wistoria: Wand and Sword
+821,Shelter
+822,When Marnie Was There
+823,A Couple of Cuckoos
+824,Girls und Panzer
+825,Vermeil in Gold
+826,Handa-kun
+827,I'm Standing on a Million Lives
+828,Anti-Magic Academy: The 35th Test Platoon
+829,JoJo's Bizarre Adventure: Stone Ocean Part 2
+830,Ya Boy Kongming!
+831,Reincarnated as a Sword
+832,Black Lagoon: Roberta's Blood Trail
+833,The Genius Prince's Guide to Raising a Nation Out of Debt
+834,"Don't Toy with Me, Miss Nagatoro 2nd Attack"
+835,Yuuna and the Haunted Hot Springs
+836,To Your Eternity Season 2
+837,Little Witch Academia
+838,This Art Club Has a Problem!
+839,Re:ZERO -Starting Life in Another World- Memory Snow
+840,Aldnoah.Zero Part 2
+841,"I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job"
+842,Haibane Renmei
+843,Noblesse
+844,Mushi-shi: Next Passage Part 1
+845,Deca-Dence
+846,OniAi
+847,Tada Never Falls in Love
+848,Tokyo Godfathers
+849,We Never Learn: BOKUBEN Season 2
+850,A Sign of Affection
+851,Majikoi: Oh! Samurai Girls
+852,Highschool of the Dead: Drifters of the Dead
+853,SSSS.Gridman
+854,KenIchi: The Mightiest Disciple
+855,Gachiakuta
+856,Ground Control to Psychoelectric Girl
+857,The Legend of the Legendary Heroes
+858,Shakugan no Shana: Season II
+859,Goblin Slayer: Goblin's Crown
+860,Fighting Spirit: New Challenger
+861,Saga of Tanya the Evil: The Movie
+862,"Clannad: Another World, Tomoyo Chapter"
+863,My Wife is the Student Council President!
+864,Naruto the Movie 1: Ninja Clash in the Land of Snow
+865,Penguindrum
+866,The Seven Deadly Sins the Movie: Prisoners of the Sky
+867,Maken-Ki!
+868,Naruto Shippuden the Movie 1
+869,Patema Inverted
+870,Hamatora The Animation
+871,Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?
+872,Fuuka
+873,Hybrid x Heart Magias Academy Ataraxia
+874,Tsukimichi -Moonlit Fantasy- Season 2
+875,Somali and the Forest Spirit
+876,Princess Connect! Re:Dive
+877,Tokyo Magnitude 8.0
+878,Anohana: The Flower We Saw That Day The Movie
+879,Dimension W
+880,Ajin: Demi-Human 2nd Season
+881,Silver Spoon
+882,Air
+883,Showa Genroku Rakugo Shinju
+884,The Ambition of Oda Nobuna
+885,One Piece Film: Z
+886,Re:ZERO -Starting Life in Another World- The Frozen Bond
+887,Full Metal Panic? Fumoffu
+888,Amnesia
+889,Bungo Stray Dogs: Dead Apple
+890,"The 100 Girlfriends Who Really, Really, Really, Really, Really Love You"
+891,Blue Lock Season 2
+892,Campfire Cooking in Another World with My Absurd Skill
+893,Juni Taisen: Zodiac War
+894,Fate/Grand Order: Absolute Demonic Front - Babylonia
+895,Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?
+896,Servamp
+897,Taboo Tattoo
+898,Little Busters!
+899,The Quintessential Quintuplets Movie
+900,High School DxD OVA
+901,Makeine: Too Many Losing Heroines!
+902,Heaven's Lost Property Forte
+903,InuYasha: The Final Act
+904,Kämpfer
+905,Kaiju No. 8 Season 2
+906,The Wrong Way to Use Healing Magic
+907,Ao-chan Can't Study!
+908,The Cat Returns
+909,Promare
+910,Higurashi: When They Cry – Gou
+911,Bleach the Movie: Memories of Nobody
+912,CHOYOYU!: High School Prodigies Have It Easy Even in Another World!
+913,My Girlfriend is Shobitch
+914,The Ancient Magus' Bride: Those Awaiting a Star
+915,ChäoS;HEAd
+916,ItaKiss
+917,Shomin Sample
+918,"Love, Chunibyo & Other Delusions!: Take On Me"
+919,Magical Sempai
+920,Cells at Work!!
+921,Blue Box
+922,Psycho-Pass 3
+923,Devils' Line
+924,"Actually, I am..."
+925,Doukyusei: Classmates
+926,Fighting Spirit: Rising
+927,Shuffle!
+928,How a Realist Hero Rebuilt the Kingdom Part 2
+929,The Comic Artist and His Assistants
+930,Samurai X: Trust and Betrayal
+931,Harem in the Labyrinth of Another World
+932,Fate/Kaleid Liner Prisma Illya
+933,Beyond the Boundary: I'll Be Here - Future
+934,Psycho-Pass: The Movie
+935,The Strongest Sage with the Weakest Crest
+936,Osamake: Romcom Where The Childhood Friend Won't Lose
+937,Mushi-shi: Next Passage Part 2
+938,Okami-San and Her Seven Companions
+939,Knight's & Magic
+940,Wagnaria!!2
+941,My Teen Romantic Comedy SNAFU OVA
+942,Grimoire of Zero
+943,Kanon
+944,Nura: Rise of the Yokai Clan
+945,Hello World
+946,The Dangers in My Heart Season 2
+947,Blue Exorcist: The Movie
+948,Naruto Shippuden the Movie 2: Bonds
+949,Moriarty the Patriot Part 2
+950,Flying Witch
+951,Skip Beat!
+952,Tonikawa: Over The Moon For You Season 2
+953,Steins;Gate: Open the Missing Link - Divide By Zero
+954,Attack on Titan: Junior High
+955,Date A Live IV
+956,Restaurant to Another World
+957,Honey and Clover
+958,Black Summoner
+959,Edens Zero
+960,Pokémon: The First Movie - Mewtwo Strikes Back
+961,Black Cat
+962,The Day I Became a God
+963,Angel Beats! Specials
+964,Sword Art Online the Movie: Progressive - Aria of a Starless Night
+965,Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2
+966,My Hero Academia: World Heroes' Mission
+967,Texhnolyze
+968,Shaman King (2021)
+969,Porco Rosso
+970,Ranma ½
+971,Riddle Story of Devil
+972,Tower of God Season 2: Return of the Prince
+973,Love Hina
+974,"Demon Lord, Retry!"
+975,Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle - Part 1: Akaza Returns
+976,Hi Score Girl
+977,Nyan Koi!
+978,Dead Mount Death Play
+979,World's End Harem
+980,Neon Genesis Evangelion: Death & Rebirth
+981,Persona 4 the Animation
+982,Burn the Witch
+983,The Duke of Death and His Maid
+984,Romantic Killer
+985,Shadows House
+986,Fire Force Season 3
+987,Persona 5 the Animation
+988,Love Stage!!
+989,Planetes
+990,Naruto Shippuden the Movie 4: The Lost Tower
+991,To LOVE Ru Darkness 2
+992,One Piece Film: Strong World
+993,Medaka Box
+994,"Clannad: After Story - Another World, Kyou Chapter"
+995,Sakura Trick
+996,Sabikui Bisco
+997,Himouto! Umaru-chan R
+998,JoJo's Bizarre Adventure: Stone Ocean Part 3
+999,Full Dive: The Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!
+1000,Kokoro Connect OVA
+1001,Full Metal Panic! The Second Raid
+1002,Sky Wizards Academy
+1003,Farming Life in Another World
+1004,Love Live! School Idol Project 2
+1005,Naruto Shippuden the Movie 5: Blood Prison
+1006,Noragami Aragoto OVA
+1007,Seitokai Yakuindomo*
+1008,Engage Kiss
+1009,Love After World Domination
+1010,A Certain Magical Index III
+1011,New Game!!
+1012,Natsume's Book of Friends Season 3
+1013,My Teen Romantic Comedy SNAFU TOO! OVA
+1014,Black Butler: Book of Murder
+1015,The 8th Son? Are You Kidding Me?
+1016,Tokyo Ghoul: Jack
+1017,My Next Life as a Villainess: All Routes Lead to Doom! X
+1018,Darker Than Black: Gemini of the Meteor OVAs
+1019,ef - a tale of memories.
+1020,Mobile Suit Gundam: Iron-Blooded Orphans
+1021,Koyomimonogatari
+1022,Dr. Stone: Science Future
+1023,Gankutsuou: The Count of Monte Cristo
+1024,"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2"
+1025,Junjo Romantica
+1026,The Great Jahy Will Not Be Defeated!
+1027,K: Missing Kings
+1028,Sirius the Jaeger
+1029,Magical Warfare
+1030,Hetalia Axis Powers
+1031,The Reincarnation of the Strongest Exorcist in Another World
+1032,My Deer Friend Nokotan
+1033,Ragna Crimson
+1034,"Love, Election and Chocolate"
+1035,Yu☆Gi☆Oh!
+1036,King's Game
+1037,Log Horizon: Destruction of the Round Table
+1038,Natsume's Book of Friends Season 2
+1039,Bleach: Thousand-Year Blood War - The Conflict
+1040,Natsume's Book of Friends Season 4
+1041,Bleach the Movie: The DiamondDust Rebellion
+1042,Life Lessons with Uramichi-Oniisan
+1043,Kanokon: The Girl Who Cried Fox
+1044,Insomniacs After School
+1045,A Certain Scientific Railgun T
+1046,Ace of Diamond
+1047,Wagnaria!!3
+1048,White Album 2
+1049,Parallel World Pharmacy
