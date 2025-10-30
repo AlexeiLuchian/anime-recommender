@@ -1,7 +1,7 @@
 from utils import scrap_animes, store_data
 
 print("Start anime scraper...\n")
-animes = scrap_animes()
+animes = scrap_animes(400)
 
 print(f"\n{'='*50}")
 print(f"Total anime scraped: {len(animes)}")

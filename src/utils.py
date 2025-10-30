@@ -23,7 +23,6 @@ headers = {
 }
 
 def scrap_animes(nr_pages=10):
-    """Scrape anime links from MAL top anime by popularity"""
     all_animes = []
 
     for page in range(nr_pages):
@@ -53,68 +52,88 @@ def scrap_animes(nr_pages=10):
     return all_animes
 
 def scrap_anime_data(link):
-    """Scrape information about an anime from MAL by providing the link"""
     time.sleep(1)
 
     try:
         response = requests.get(link, headers=headers)
         response.raise_for_status()
-
         soup = BeautifulSoup(response.text, 'html.parser')
-        title = soup.select_one("h1.title-name strong").getText()
+        
+        try:
+            title = soup.select_one("p.title-english").getText()
+        except:
+            title = soup.select_one("h1.title-name strong").getText()
+        
         print(f"Scraping {title}...")
-        score = soup.select_one("div.score-label").getText()
+        
+        score_element = soup.select_one("div.score-label")
+        score = score_element.getText() if score_element else None
+        
         genres = soup.find_all(name="span", itemprop="genre")
+        
         episodes_div = soup.find(name="span", class_="dark_text", string="Episodes:")
-        episodes_text = episodes_div.parent.text.strip()
-        episodes = episodes_text.replace("Episodes:\n  ", "")
-        synopsis = soup.find(name="p", itemprop="description").getText()[:-27]
-        popularity = soup.select_one("span.popularity strong").getText()[1:]
-        members_string = soup.select_one("span.members strong").getText()
+        if episodes_div:
+            episodes_text = episodes_div.parent.text.strip()
+            episodes = episodes_text.replace("Episodes:\n  ", "").strip()
+        else:
+            episodes = None
+        
+        synopsis_element = soup.find(name="p", itemprop="description")
+        synopsis = synopsis_element.getText()[:-27] if synopsis_element else ""
+        
+        popularity_element = soup.select_one("span.popularity strong")
+        popularity = popularity_element.getText()[1:] if popularity_element else None
+        
+        members_element = soup.select_one("span.members strong")
+        members_string = members_element.getText() if members_element else "0"
         members = members_string.replace(",", "")
+        
         studios_div = soup.find(name="span", class_="dark_text", string="Studios:")
-        studios_a = studios_div.parent.find_all('a')
-        studios = [studio.getText() for studio in studios_a]
+        if studios_div:
+            studios_a = studios_div.parent.find_all('a')
+            studios = [studio.getText() for studio in studios_a]
+        else:
+            studios = []
+        
         year_div = soup.find(name="span", class_="dark_text", string="Premiered:")
-        year = year_div.parent.find("a").getText().split()[1]
+        if year_div:
+            year_link = year_div.parent.find("a")
+            year = year_link.getText().split()[1] if year_link else None
+        else:
+            year = None
 
         anime_data = {
             "title": title,
-            "score": float(score),
+            "score": float(score) if score else None,
             "genres": [genre.text for genre in genres],
-            "episodes": int(episodes),
+            "episodes": int(episodes) if episodes and episodes.isdigit() else None,
             "synopsis": synopsis,
-            "popularity": int(popularity),
-            "members": int(members),
+            "popularity": int(popularity) if popularity else None,
+            "members": int(members) if members else None,
             "studios": studios,
             "year": year,
         }
         return anime_data
 
     except Exception as e:
-           print(f"Error: {e}")
-           return None
+        print(f"Error: {e}")
+        return None
 
 def store_data(animes, file_name="anime_dataset"):
-    """Store scraped anime data in JSON and CSV formats"""
-    
     data_dir = Path("data/raw")
     data_dir.mkdir(parents=True, exist_ok=True)
 
     df = pd.DataFrame(animes)
 
-    # Store data in csv format
     csv_path = data_dir / f"{file_name}.csv"
     df.to_csv(csv_path, index=False, encoding='utf-8')
     print(f"Saved {len(animes)} animes into {csv_path}")
 
-    # Store data in json format
     json_path = data_dir / f"{file_name}.json"
     with open(json_path, "w", encoding='utf-8') as file:
         json.dump(animes, file, indent=4, ensure_ascii=False)
     print(f"Saved {len(animes)} animes into {json_path}")
 
-    # Print summary
     print(f"\n{'='*50}")
     print("Dataset Summary")
     print(f"Total animes: {len(animes)}")

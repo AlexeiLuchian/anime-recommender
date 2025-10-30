@@ -44,7 +44,7 @@ with col1:
     
     # Search box
     search_query = st.text_input(
-        "Enter anime name or keyword:",
+        "Forgot the name of the anime? Search by a keyword:",
         placeholder="e.g., Naruto, Attack, Death..."
     )
     
